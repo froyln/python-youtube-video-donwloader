@@ -4,6 +4,10 @@ A simple console app for download videos/music from youtube.
 ## Note: This program requires yt-dlp and ffmpeg to be installed.
 Credit to yt-dlp for downloading videos and ffmpeg for merging audio and video.
 
+##Dependencies
+Python versions 3.9+ (CPython) and 3.10+ (PyPy) are supported. Other versions and implementations may or may not work correctly.
+Ffmpeg and ffprobe
+
 ## Installation:
 
 Clone repo: 
